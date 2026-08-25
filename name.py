@@ -1,3 +1,5 @@
 name = input("Enter your name:")
 surname = input("Enter your surname:")
 print("your full name is: ", name+""+surname)
+college_name=input("enter your college name:")
+print("your college is:",college_name)
